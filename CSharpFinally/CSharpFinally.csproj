@@ -46,6 +46,9 @@
     <Compile Include="Classes\Item.cs" />
     <Compile Include="Classes\Product.cs" />
     <Compile Include="Classes\Sales.cs" />
+    <Compile Include="Interfaces\IItem.cs" />
+    <Compile Include="Interfaces\IProduct.cs" />
+    <Compile Include="Interfaces\ISales.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
